@@ -1,5 +1,5 @@
 #This file will source and plot some stats to provide information comparing the computer's
-#picks to the humans picks for the NCAA tournament in 2016.
+#picks to the humans picks for the NCAA tournament in 2016
 
 #Model predictions come from http://projects.fivethirtyeight.com/2016-march-madness-predictions/
 #Actual pick percentages come from http://games.espn.go.com/tournament-challenge-bracket/2016/en/whopickedwhom
